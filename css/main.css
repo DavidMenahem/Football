@@ -1,0 +1,30 @@
+.body{
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    position: absolute;
+    align-items: center;
+    top: 10%;
+    left: 45%;
+    color: blue;
+}
+.button{
+    position: absolute;
+    left: 50%;
+    top:50%;
+    border-radius: 50%;
+    border: 1px solid black;
+    color:red;
+}
+
+#scores > p{
+    width: 40%;
+    color: green;
+    border: 2px dotted blue;
+}
+
+#waiting{
+    border: 2px solid black;
+    color:blue;
+    font-size: small;
+}
